@@ -322,21 +322,21 @@ font-size: 45px;
 	background-color: #8b9dc3;
 }
 
-.tw
+.git
 {
 	margin-right: 2%;
 	width: 23.5%;
 	height:32%;
-	background-color: #55acee;
+	background-color: #262525;
 	float: left;
 	display: flex;
 	justify-content: center;
 	align-items: center;	
 }
 
-.tw:hover
+.git:hover
 {
-	background-color: #99CCFF;
+	background-color: #383636;
 }
 
 .insta
@@ -356,20 +356,20 @@ font-size: 45px;
 	background-color: #fccc63;
 }
 
-.yt
+.portfolio
 {
 	width: 23.5%;
 	height:32%;
-	background-color: #cc181e;
+	background-color: #04b834;
 	float: left;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 
-.yt:hover
+.portfolio:hover
 {
-	background-color: #ff6666;
+	background-color: #02d93b;
 }
 
 
@@ -382,12 +382,8 @@ color: #FFFFFF;
 
 
 
-.icon-youtube:before 
-{
-	font-size: 8vw; 
-}
 
-.icon-facebook-official:before 
+.icon-facebook-squared:before
 {
 	font-size: 8vw; 
 }
@@ -397,14 +393,17 @@ color: #FFFFFF;
 	font-size: 8vw; 
 }
 
-.icon-twitter:before 
+.icon-github-squared:before
 {
-	font-size: 8vw; 
+	font-size: 8vw;
 }
- 
 
+.icon-picture-1:before
+{
+	font-size: 7vw;
+}
 
-.icon-user-male:before 
+.icon-user:before
 {
 	font-size: 7vw; 
 }
