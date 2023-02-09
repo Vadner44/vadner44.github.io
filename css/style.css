@@ -322,21 +322,21 @@ font-size: 45px;
 	background-color: #8b9dc3;
 }
 
-.git
+.li
 {
 	margin-right: 2%;
 	width: 23.5%;
 	height:32%;
-	background-color: #262525;
+	background-color: #0e76a8;
 	float: left;
 	display: flex;
 	justify-content: center;
 	align-items: center;	
 }
 
-.git:hover
+.li:hover
 {
-	background-color: #383636;
+	background-color: #1293d2;
 }
 
 .insta
@@ -393,12 +393,12 @@ color: #FFFFFF;
 	font-size: 8vw; 
 }
 
-.icon-github-squared:before
+.icon-linkedin-squared:before
 {
 	font-size: 8vw;
 }
 
-.icon-picture-1:before
+.icon-picture:before
 {
 	font-size: 7vw;
 }
